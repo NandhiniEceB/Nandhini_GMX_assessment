@@ -1,0 +1,46 @@
+body { 
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background-color: #D9F7F7;
+
+    overflow-x: hidden;
+} 
+
+.bg-1 {
+    position: absolute;
+    width: 1400;
+    height: 1000px;
+    left: -42px;
+    top: 76px;
+
+}
+
+ .bg-2 {
+        position: absolute;
+        left: 9%;
+        right: -0.19%;
+        top: 18.86%;
+        bottom: 0%;
+    }
+
+.bg-3{
+    position: absolute;
+    left: 6.91%;
+    right: 1.62%;
+    top: 16.29%;
+    bottom: 2.31%;
+} 
+.symbol {
+    position: absolute;
+    left: 509px;
+    bottom: 704px;
+}
+.logo{
+    size: 120px;
+} 
+.pic {
+    position: absolute;
+    left: 743px;
+    top: 263px;
+}

@@ -1,9 +1,9 @@
 
 body {
-    background-image: url(images/login.png.png);
+    background-image: url("../images/login.png.png");
     font-size: 1.6rem; 
     font-family: "Open Sans", sans-serif;
-    color: #fff; 
+    color: #fff;
     background-color: #000;
   }
   h2 {

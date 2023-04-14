@@ -4,30 +4,56 @@ body{
     font-family: "Open Sans", sans-serif; 
     background-color: #CDCFEE;
 } 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 5px 10px;
-    overflow: hidden;
-    
-    position: fixed;
-    top: 0;
-    width: 100%;
-  } 
-  li a {
-    display: block;
-    color: #000; 
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }   
-  li {
-    float: right;
-  } 
+  
+nav{
+  display: flex; 
+  align-items: center; 
+  justify-content: space-between; 
+  flex-wrap: wrap;
+} 
+nav ul li{
+  display: inline-block; 
+  list-style: none;
+  margin: 10px 20px; 
+
+}  
+nav ul li{
+  color: #000; 
+  text-decoration: none; 
+  font-size: 18px;
+}
+.btn{ 
+  width: 161px;
+  background: #000; 
+  color: #fff; 
+  border-radius: 10px; 
+  text-decoration: none;  
+  font-family: 'Pirata One';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 25px; 
+   position: relative;
+   right: 10px;
+   bottom: 22px; 
+   display: inline-block; 
+   text-align: center; 
+   padding: 10px 10px;
+} 
+
   .logo{
-    width: 125px; 
-    height: 30px;
-  } 
+    width: 125px;  
+    position: relative; 
+    left: 2px; 
+    bottom: 1px;
+    
+  }  
+  .side{ 
+    position: relative;
+    left: 11px;
+    width: 76px;
+    
+  }
+ 
   .grid-item {
     background-color: #CDCFEE;
     border: 0;
@@ -36,16 +62,19 @@ ul {
     
    
   }  
-  .border{
-    
-        position: absolute;
-        right: 104px;
-        bottom: 30px;
-    
-    
-  }
-  
-  .grid-container { 
+  .border {
+    position: absolute;
+    right: 112px;
+    bottom: 30px;
+    left: 105px;
+} 
+.staff {
+  position: absolute;
+  right: 102px;
+  bottom: 67px;
+  left: 128px;
+}
+.grid-container { 
     padding-bottom: 10px;
     display: grid; 
     background-color: #CDCFEE;
