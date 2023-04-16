@@ -42,4 +42,311 @@ body {
     position: absolute;
     left: 743px;
     top: 263px;
+} 
+.name{
+    position: absolute;
+  left: 121.38px;
+  right: 591.px;
+  top: 0px;
+  bottom: 617.8px;
+  
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 100;
+  font-size: 44px;
+  
+  color: #DCDCDC; 
+  line-height: 20px;
+  }
+  .species{
+    position: absolute;
+  left: 95px;
+  right: 847.6px;
+  top: 85px;
+  bottom:560px;
+  height: 31px;
+  width: 71px;
+  
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 200;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  color: #DCDCDC;
+  }
+  .gender{
+    position: absolute;
+  left: 95px;
+  right: 847px;
+  top: 115px;
+  bottom:478px;
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 400;
+  font-size:26px;
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  
+  color: #DCDCDC;
+  }
+  .house{
+    position: absolute;
+  left: 95px;
+  right: 847px;
+  top: 145px;
+  bottom:418px;
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  
+  color: #DCDCDC;
+  }
+  .DOB{
+    position: absolute;
+  left: 95px;
+  right: 847px;
+  top: 175px;
+  bottom:358.5px;
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  
+  color: #DCDCDC;
+  }
+  
+  .ancestry{
+    position: absolute;
+  left: 95px;
+  right: 847px;
+  top: 205px;
+  bottom:298.5px;
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 26px;
+  letter-spacing: 0.05em;
+  
+  color: #DCDCDC;
+  }
+  
+  .eye{
+    position: absolute;
+  left: 95px;
+  right: 780px;
+  top: 235px;
+  bottom:238.5px;
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 100;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  
+  color: #DCDCDC;
+  }
+  
+  .haircolor{
+    position: absolute;
+  left: 95px;
+  right: 780px;
+  top: 265px;
+  bottom:178.5px;
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 400;
+  font-size:26px;
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  
+  color: #DCDCDC;
+  }
+  
+  .wand{
+    position: absolute;
+  left: 95px;
+  right: 847px;
+  top: 295px;
+  bottom:118px;
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  
+  color: #DCDCDC;
+  }
+  
+  .patronus{
+    position: absolute;
+  left: 95px;
+  right: 847px;
+  top: 325px;
+  bottom:58.5px;
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  
+  color: #DCDCDC;
+  }
+  
+  
+  .species-r{
+    position: absolute;
+  left: 330.66px;
+  right: 591.6px;
+  top: 85px;
+  bottom:560px;
+  height: 31px;
+  width: 71px;
+  
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  color: #DCDCDC;
+  }
+  .gender-r{
+    position: absolute;
+  left:  330.66px;
+  right: 591.6px;
+  top: 115px;
+  bottom:478px;
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  
+  color: #DCDCDC;
+  }
+  .house-r{
+    position: absolute;
+  left:  330.66px;
+  right: 591.6px;
+  top: 145px;
+  bottom:418px;
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  
+  color: #DCDCDC;
+  }
+  .DOB-r{
+    position: absolute;
+  left:  330.66px;
+  right: 530.6px;
+  top: 175px;
+  bottom:358.5px;
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  
+  color: #DCDCDC;
+  }
+  
+  .ancestry-r{
+    position: absolute;
+  left:  330.66px;
+  right: 530.6px;
+  top: 205px;
+  bottom:298.5px;
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 400;
+  font-size:26px;
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  
+  color: #DCDCDC;
+  }
+  
+  .eye-r{
+    position: absolute;
+  left:  330.66px;
+  right: 591.6px;
+  top: 235px;
+  bottom:238.5px;
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 400;
+  font-size:26px;
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  
+  color: #DCDCDC;
+  }
+  
+  .haircolor-r{
+    position: absolute;
+  left:  330.66px;
+  right: 591.6px;
+  top: 265px;
+  bottom:178.5px;
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  
+  color: #DCDCDC;
+  }
+  
+  .wand-r{
+    position: absolute;
+  left:  330.66px;
+  right: 400.6px;
+  top: 295px;
+  bottom:118px;
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  
+  color: #DCDCDC;
+  }
+  
+  .patronus-r{
+    position: absolute;
+  left:  330.66px;
+  right: 591.6px;
+  top: 325.5px;
+  bottom:58.5px;
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 100;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  
+  color: #DCDCDC;
+  }
+  
+.details{
+    position: relative;
+    left: 114px;
+    top: 148px;
 }
